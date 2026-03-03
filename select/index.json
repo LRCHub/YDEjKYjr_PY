@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラヴ・ライト・イン・フライト",
+  "base_artist": "Stevie Wonder",
+  "createdAt": "2026-03-03T09:58:57.506322Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Light In Flight",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Light_In_Flight_Stevie_Wonder.txt"
+    }
+  ]
+}
